@@ -1,4 +1,4 @@
-# 👋 **Hi! I'm »ƻ£µ§«** (_zEuS-0390_)
+# 👋 **Hi! I'm zEuS-0390
 
 ## ✏️ About me 
 I'm an undergraduate Computer Engineering student in Technological Institute of the Philippines, Quezon City. Programming is one of the most important part of my life. I'm still exploring different techniques and algorithms to better improve myself and achieve my endeavours. If you want to know more about me and my portfolio, check out my _\<work in progress\>_.
