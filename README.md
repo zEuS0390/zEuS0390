@@ -1,16 +1,12 @@
-# 👋 Hi! I'm zEuS0390
+# Hi! I'm zEuS0390
 
-## ✏️ About me 
-I'm an undergraduate Computer Engineering student in Technological Institute of the Philippines, Quezon City. Programming is one of the most important part of my life. I'm still exploring different techniques and algorithms to better improve myself and achieve my endeavours. If you want to know more about me and my portfolio, check out my _\<work in progress\>_.
+## About me 
+I'm an undergraduate Computer Engineering student in Technological Institute of the Philippines, Quezon City. My passion is to create applications and explore different things in languages like C++ and Python. I practice every day to become more proficient on my current skills. Having a lack of resources does not really bother me, as long as there is a working and compatible computer with an internet, I would be able to do the work as much as I can. If you want to know more about me and my works, check out my portfolio [here](https://zEuS0390.github.io).
 
-## 💻 Present Skills
-Here are some of my present skills in programming at the moment but not limited of the following:
-- Python
-- C/C++
-- C#
-- Unity Engine
+## Present Skills
+The programming languages in my development journey at the moment are mostly in C++ and Python, but prior to my long experience I can adapt.
 
-## 💡 APIs/Frameworks/Technologies Touched
+## APIs/Frameworks/Technologies Touched
 - Arduino
 - Raspberry Pi
 - Darknet
@@ -19,7 +15,7 @@ Here are some of my present skills in programming at the moment but not limited 
 - SQLite
 - OpenGL [Learning]
 
-## 📚 Previous Projects
+## Previous Projects
 These are my previous projects, though some projects that I have contributed are not included here:
 1. [RIMZBot](https://github.com/zEuS-0390/RIMZBot) - Facebook messenger bot that mainly uses fbchat from [carpedm20/fb-chat](https://github.com/carpedm20/fbchat).
 2. [Smart Trash Bin]() - An object recognition program using YOLOv3 algorithm for smart trash bin with variety of classes.
