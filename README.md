@@ -6,4 +6,4 @@ My passion is to create applications and explore different things. I practice e
 ## Present Skills
 The programming languages in my development journey at the moment are mostly in C/C++ and Python, but prior to my long experience I can adapt.<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zEuS0390&show_icons=true&theme=tokyonight)
+![zEuS0390's GitHub stats](https://github-readme-stats.vercel.app/api?username=zEuS0390&show_icons=true&theme=tokyonight)
