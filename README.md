@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=zEuS0390&style=for-the-badge)
 # Hi! I'm zEuS0390
 
 ## About me 
