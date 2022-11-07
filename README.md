@@ -10,10 +10,10 @@ The programming languages in my development journey at the moment are mostly in 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zEuS0390&count_private=true&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zEuS0390&count_private=true&layout=compact&line_height=20&card_width=300"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=zEuS0390&count_private=true&show_icons=true&theme=gruvbox"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=zEuS0390&count_private=true&show_icons=true&line_height=20&theme=gruvbox&card_width=300"/>
     </td>
   </tr>
 </table>
