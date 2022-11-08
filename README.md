@@ -12,7 +12,7 @@ My passion is to create applications and explore different things. I practice e
 ## Present Skills
 The programming languages in my development journey at the moment are mostly in C/C++ and Python, but prior to my long experience I can adapt.<br>
 
-![My Skills](https://skillicons.dev/icons?i=cpp,py,git,github,discord,bootstrap,arduino)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,py,raspberrypi,bootstrap,git,github,vscode,discord,sqlite,mysql)
 
 <table>
   <tr>
