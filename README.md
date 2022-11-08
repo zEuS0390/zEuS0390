@@ -14,7 +14,7 @@ The programming languages in my development journey at the moment are mostly in 
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,py,raspberrypi,html,css,bootstrap,git,github,vscode,discord,sqlite,mysql"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,py,raspberrypi,html,css,bootstrap,git,github,vscode,discord,sqlite,mysql,linux,bash,vim&perline=14"/>
   </a>
 </p>
 
