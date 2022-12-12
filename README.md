@@ -22,12 +22,11 @@ These are the skills that I have developed for years. Some languages and framewo
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zEuS0390&count_private=true&layout=compact&line_height=20&theme=gruvbox&card_width=400"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zEuS0390&count_private=true&layout=compact&line_height=20&theme=radical&card_width=400"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=zEuS0390&count_private=true&show_icons=true&line_height=20&theme=gruvbox&card_width=400"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=zEuS0390&count_private=true&show_icons=true&line_height=20&theme=radical&card_width=400"/>
     </td>
   </tr>
 </table>
-
 
