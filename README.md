@@ -30,3 +30,5 @@ These are the skills that I have developed for years. Some languages and framewo
   </tr>
 </table>
 
+Blog Site: https://zeus0390.blogspot.com/
+
