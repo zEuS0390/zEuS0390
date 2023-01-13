@@ -23,5 +23,7 @@ Blog Site: https://zeus0390.blogspot.com/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Started Out My Programming Journey](https://zeus0390.blogspot.com/2023/01/how-i-started-out-my-programming-journey.html)
+- [My First Blog](https://zeus0390.blogspot.com/2023/01/my-first-blog.html)
 <!-- BLOG-POST-LIST:END -->
 
