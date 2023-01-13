@@ -21,3 +21,7 @@ These are the skills that I have developed for years. Some languages and framewo
 
 Blog Site: https://zeus0390.blogspot.com/
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
