@@ -19,6 +19,14 @@ These are the skills that I have developed for years. Some languages and framewo
   </a>
 </p>
 
+## Learning Skills
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=qt&perline=14"/>
+  </a>
+</p>
+
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Planning to Make New Projects Using Qt Framework](https://zeus0390.blogspot.com/2023/02/planning-to-make-new-projects-using-qt.html)
