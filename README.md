@@ -10,7 +10,7 @@
 ## About me 
 My passion is to create applications and explore different things. I practice every day to become more proficient with my current skills. Having a lack of resources does not really bother me, as long as there is a working and compatible computer with an internet connection, I would be able to do the work as much as I can. I also teach others, not only to share my knowledge with them but also to improve myself. If you want to know more about me and my works, check out my portfolio [here](https://zEuS0390.github.io).
 
-## Languages and Tools
+## Languages, Frameworks, and Tools
 These are the skills that I have developed for years. Some languages and frameworks are not being shown here because I'm not very confident yet to them.
 
 <p align="center">
