@@ -11,7 +11,7 @@
 My passion is to create applications and explore different things. I practice every day to become more proficient with my current skills. Having a lack of resources does not really bother me, as long as there is a working and compatible computer with an internet connection, I would be able to do the work as much as I can. I also teach others, not only to share my knowledge with them but also to improve myself. If you want to know more about me and my works, check out my portfolio [here](https://zEuS0390.github.io).
 
 ## Languages, Frameworks, and Tools
-These are the skills that I have developed for years. Some languages and frameworks are not being shown here because I'm not very confident yet to them.
+These are the languages, frameworks, and tools that I have used in my projects for years. Even so, I'm still interested in discovering new things, particularly in software applications that heavily rely on speed, efficiency, and performance. Plus, I would like to understand more about computers. Currently, I'm reading and watching a lot from different sources so that I may discover something valuable and relevant to my domain.
 
 <p align="center">
   <a href="#">
