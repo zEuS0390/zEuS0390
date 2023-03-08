@@ -3,29 +3,32 @@
 # 👋 Hi! I'm Zeus James  \<zEuS0390\>
 
 <p align="center">
-  <a href="https://facebook.com/00ZeUsJaMeS00" target="_blank" rel="noopener noreferrer">
+  <a href="https://facebook.com/00ZeUsJaMeS00">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
-  <a href="https://www.youtube.com/channel/UC4wkNKX83ZA5qZNf7CsflWQ" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.youtube.com/channel/UC4wkNKX83ZA5qZNf7CsflWQ">
     <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-  <a href="https://twitter.com/zEuS0390" target="_blank" rel="noopener noreferrer">
+  <a href="https://twitter.com/zEuS0390">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/zEuS0390/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/zEuS0390/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.hackerrank.com/zEuS0390" target="_blank" rel="noopener noreferrer">
+  <a href="https://gitlab.com/zEuS0390">
+    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+  </a>
+  <a href="https://www.hackerrank.com/zEuS0390">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
-  <a href="https://discordapp.com/users/6451" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.leetcode.com/zEuS0390">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+  </a>
+  <a href="https://discordapp.com/users/6451">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="https://www.deviantart.com/zeusjames02" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.deviantart.com/zeusjames02">
     <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white">
-  </a>
-  <a href="https://www.leetcode.com/zEuS0390" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
   </a>
 </p>
 
