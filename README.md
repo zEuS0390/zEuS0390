@@ -2,13 +2,32 @@
 
 # 👋 Hi! I'm Zeus James  \<zEuS0390\>
 
-[![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/00ZeUsJaMeS00)
-[![](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4wkNKX83ZA5qZNf7CsflWQ)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zEuS0390)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zEuS0390/)
-[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/zEuS0390)
-[![](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/6451)
-[![](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/zeusjames02)
+<p align="center">
+  <a href="https://facebook.com/00ZeUsJaMeS00" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/channel/UC4wkNKX83ZA5qZNf7CsflWQ" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://twitter.com/zEuS0390" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/zEuS0390/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.hackerrank.com/zEuS0390" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+  <a href="https://discordapp.com/users/6451" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://www.deviantart.com/zeusjames02" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white">
+  </a>
+  <a href="https://www.leetcode.com/zEuS0390" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+  </a>
+</p>
 
 ## 📖 About me 
 I'm very passionate about creating applications and exploring different things. I practice every day to become more proficient with my current skills. Having a lack of resources does not bother me; as long as there is a working and compatible computer with an internet connection, I can do the work as much as possible. I also teach others, not only to share my knowledge with them but also to improve myself. Check out my portfolio [here](https://zEuS0390.github.io) to learn more about me and my work.
