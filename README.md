@@ -38,6 +38,7 @@ I'm very passionate about creating applications and exploring different things. 
 ## 🧰 Languages, Frameworks, and Tools
 These are the languages, frameworks, and tools that I have used in my projects. I'm interested in learning new things I'm not yet aware of and using them in practice. Plus, I'd like to understand more about computers, particularly software applications. Like everybody else, I'm still reading and watching from different sources to discover something valuable and relevant to my interests.
 
+### Retained Knowledge
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
