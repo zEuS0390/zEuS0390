@@ -75,7 +75,6 @@ These are the languages, frameworks, and tools that I have used in my projects. 
 
 ## ✍ Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Planning to Make New Projects Using Qt Framework](https://zeus0390.blogspot.com/2023/02/planning-to-make-new-projects-using-qt.html)
 - [How I Started Out My Programming Journey](https://zeus0390.blogspot.com/2023/01/how-i-started-out-my-programming-journey.html)
 - [My First Blog](https://zeus0390.blogspot.com/2023/01/my-first-blog.html)
 <!-- BLOG-POST-LIST:END -->
