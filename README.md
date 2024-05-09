@@ -15,6 +15,9 @@
   <a href="https://www.linkedin.com/in/zEuS0390/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://www.upwork.com/freelancers/zeusjamesb">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork">
+  </a>
   <a href="https://gitlab.com/zEuS0390">
     <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
   </a>
