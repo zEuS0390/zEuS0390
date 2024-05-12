@@ -1,4 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=zEuS0390&style=flat-square)
+<a href="https://keyserver.ubuntu.com/pks/lookup?search=B8BB6971852ABE37&fingerprint=on&op=index">
+    <img src="https://img.shields.io/badge/GPG KEY ID-B8BB6971852ABE37-gold" alt="Team-Jurubetsu">
+</a>
 
 # 👋 Hi! I'm Zeus James  \<zEuS0390\>
 
