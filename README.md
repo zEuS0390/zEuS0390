@@ -80,9 +80,3 @@ These are the languages, frameworks, and tools that I have used in my projects. 
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon AWS">
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
-
-## ✍ Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How I Started Out My Programming Journey](https://zeus0390.blogspot.com/2023/01/how-i-started-out-my-programming-journey.html)
-- [My First Blog](https://zeus0390.blogspot.com/2023/01/my-first-blog.html)
-<!-- BLOG-POST-LIST:END -->
