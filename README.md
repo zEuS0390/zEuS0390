@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/GPG KEY ID-B8BB6971852ABE37-gold" alt="Team-Jurubetsu">
 </a>
 
-# 👋 Hi! I'm Zeus James  \<zEuS0390\>
+# 👋 Hey there! I'm Zeus James, a.k.a zEuS0390
 
 <p align="center">
   <a href="https://facebook.com/00ZeUsJaMeS00">
