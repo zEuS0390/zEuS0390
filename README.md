@@ -44,10 +44,10 @@
 </p>
 
 ## 📖 About me 
-I'm a passionate and experienced software developer who loves building applications and exploring new ideas. I enjoy playing games, reading articles, watching videos, and coding in different languages. I also enjoy helping others by solving problems and sharing knowledge within my expertise. If you want to know more about me and my work, please check out my portfolio [here](https://zEuS0390.github.io).
+I'm a passionate and experienced software developer who loves exploring new ideas. I enjoy playing games, reading articles, watching videos, and coding in different languages. I also enjoy helping others by solving problems and sharing knowledge within my domain. If you want to know more about me and my work, please check out my portfolio [here](https://www.zeusjames.com).
 
 ## 🧰 Programming/Scripting Languages, Frameworks, Tools, and Technologies
-These are the programming languages, frameworks, libraries, tools, and technologies I’ve worked with in my projects and professional experience. I’m interested in learning new concepts I haven’t yet explored and applying them in practice. I also aim to deepen my understanding of computers, both hardware and software. Just as I said earlier, I like reading, especially from different sources, to learn and discover things that are valuable and relevant to my interests.
+These are the programming languages, frameworks, libraries, tools, and technologies I’ve worked with in my projects and professional experience. I’m interested in learning new concepts I haven’t yet explored and applying them in practice. I also aim to deepen my understanding of computers, both hardware and software.
 
 ### 📘 Retained Knowledge
 <p align="center">
